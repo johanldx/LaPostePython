@@ -1,4 +1,4 @@
-LaPoste Python
+laposte
 =======
 
 .. important::
