@@ -1,6 +1,10 @@
 LaPoste Python
 =======
 
+.. important::
+
+    This sample documentation was generated on |today|, and is rebuilt weekly.
+
 Installing
 ----------
 
