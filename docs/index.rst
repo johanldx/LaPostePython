@@ -20,7 +20,7 @@ Le module **laposte** peut être installé avec `pip <https://pypi.org/project/l
   
 Il peut aussi être téléchargé depuis la page `github <https://github.com/444ldx/LaPostePython/releases/>`_ du projet.
 
-Usage
+Utilisation
 -----
 
 Le module peut être utilisé de deux manières différentes via la class *Suivie()*. 
