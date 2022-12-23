@@ -65,3 +65,8 @@ client.data
 ## Le projet
 
 Bien que les APIs de La Poste soient connus et utilisés, je n'ai pas trouvé de modules sur Pypi me convenant afin de les insérer dans mes projets. Je développe donc ce module afin de partager une manière simple et rapide à tous d'accéder aux APIs de La Poste.
+
+## Liens 
+
+[La documentation](lapostepython.readthedocs.io/fr/latest/)
+[Le projet sur Pypi](https://pypi.org/project/laposte/)
