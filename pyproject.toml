@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "laposte"
-version = "0.1.5"
+version = "0.0.1"
 authors = [
   { name="ldx", email="fr.ldxdev@gmail.com" },
 ]
