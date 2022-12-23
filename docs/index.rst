@@ -71,4 +71,4 @@ Les attributs de classe servant à récupérer les informations sont les suivant
 License
 -------
 
-urllib3 is made available under the MIT License. For more details, see `LICENSE.txt <https://github.com/444ldx/LaPostePython/blob/main/LICENSE>`_.
+**laposte** est mis à disposition sous la licence MIT. Pour plus de détails, voir `LICENSE.txt <https://github.com/444ldx/LaPostePython/blob/main/LICENSE>`_.
