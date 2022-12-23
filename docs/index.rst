@@ -10,7 +10,7 @@ Bienvenue sur la documentation du module Python **laposte**. Il permet d'insére
 Installation
 ----------
 
-Le module **laposte** peut être installé avec `pip <https://pip.pypa.io>`_
+Le module **laposte** peut être installé avec `pip <https://pypi.org/project/laposte/>`_
 
 .. code-block:: bash
 
