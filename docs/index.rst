@@ -1,4 +1,4 @@
-laposte
+La Poste Python
 =======
 
 .. important::
