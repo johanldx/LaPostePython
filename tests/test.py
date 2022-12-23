@@ -2,20 +2,20 @@ import laposte, unittest, laposte.LaPosteExeptions
 
 class Tests(unittest.TestCase):
     def setUp(self):
-        self.package_1 = la_poste.LaPosteSuivi()
-        self.package_1.connect("y72PZT+LSyQMV3sk0BW47K++6X/kQYnLNPT9XEAKhWyXJgo2tUP/8CSkP5L+/JMI")
+        self.package_1 = laposte.Suivi()
+        self.package_1.connect("okapi_key sandox")
         self.package_1.suivi("LU680211095FR")
         
-        self.package_2 = la_poste.LaPosteSuivi()
-        self.package_2.connect("y72PZT+LSyQMV3sk0BW47K++6X/kQYnLNPT9XEAKhWyXJgo2tUP/8CSkP5L+/JMI")
+        self.package_2 = laposte.Suivi()
+        self.package_2.connect("okapi_key sandox")
         
-        self.package_3 = la_poste.LaPosteSuivi()
-        self.package_3.connect("y72PZT+LSyQMV3sk0BW47K++6X/kQYnLNPT9XEAKhWyXJgo2tUP/8CSkP5L+/JMI")
+        self.package_3 = laposteSuivi()
+        self.package_3.connect("okapi_key sandbox")
         self.package_3.suivi("CB662173705US")
         self.package_3.reset()
         
-        self.package_4 = la_poste.LaPosteSuivi()
-        self.package_4.connect("y72PZT+LSyQMV3sk0BW47K++6X/kQYnLNPT9XEAKhWyXJgo2tUP/8CSkP5L+/JMI")
+        self.package_4 = laposte.Suivi()
+        self.package_4.connect("okapi_key sandbox")
         self.package_4.suivi("CB662173705US")
         self.package_4.reset(client=True)
         
