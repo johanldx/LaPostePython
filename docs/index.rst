@@ -44,7 +44,7 @@ Une autre manière d'utiliser la classe pour récupérer les données d'un colis
   
   informations = [client.id_ship, client.product, client.timeline]
   
-  # Cette ligne permet de réinitialiser les attributs afin qu'il ne soit plus accessible et ainsi fair une nouvelle requête.
+  # Cette ligne permet de réinitialiser les attributs afin qu'ils ne soient plus accessibles et ainsi faire une nouvelle requête.
   # L'argument client permet de réinitialiser également le client.
   client.reset(client=False)
 
