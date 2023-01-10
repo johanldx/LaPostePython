@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "laposte"
-version = "0.0.1"
+version = "0.1.0"
 authors = [
   { name="ldx", email="fr.ldxdev@gmail.com" },
 ]
@@ -21,6 +21,6 @@ dependencies = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/444ldx/la_poste_python"
+"Homepage" = "https://lapostepython.readthedocs.io/fr/latest/"
 "Bug Tracker" = "https://github.com/444ldx/la_poste_python/issues"
 "Code" = "https://github.com/444ldx/la_poste_python"
